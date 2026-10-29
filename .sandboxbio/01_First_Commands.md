@@ -35,6 +35,12 @@ In the terminal below, type `pwd` and press Return.
 /home/sandbox/github/mbaddoo/BMS-BOOST-Day0
 ```
 
+**What does this mean?**
+
+The `pwd` command displays the full path to your current working directory-the folder where you are presently located in the file system. In sandbox.bio, this directory contains our BMS-BOOST GitHub repository.
+
+Try it yourself: Look at the path returned by `pwd`. Notice that it begins with / and ends with BMS-BOOST-Day0. You don't need to memorize this path; simply recognize that it tells you where you are in the file system. 
+
 ## Exercise 3 — Display a message
 
 The `echo` command displays text in the terminal.
