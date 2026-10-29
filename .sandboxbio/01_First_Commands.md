@@ -59,7 +59,7 @@ The `echo` command displays the text you provide. In this example, the terminal 
 
 Try it yourself: Run the command again, but replace `Welcome to BOOST.' with a short message of your own. Keep the quotation marks around your message. 
 
-For example, type `echo "Roll Wave!"` and press Return. 
+For example, type `echo "I am learning bioinformatics."` and press Return. 
 
 Notice that the terminal displays your new message. 
 
@@ -70,7 +70,7 @@ Before continuing, make sure you can answer these questions:
 1. Which command displays your username?
 2. Which command displays your current working directory?
 3. What does the `echo` command do?
-4. You want the terminal to display the message `I completed my first BOOST exercise!`. What command would you enter?
+4. You want the terminal to display the message `I completed my first BOOST exercise.`. What command would you enter?
 
 You have now completed your first interactive BMS-BOOST Terminal exercise!
 
@@ -84,6 +84,6 @@ You have now completed your first interactive BMS-BOOST Terminal exercise!
 1. `whoami` displays your current username.
 2. `pwd` displays your current working directory.
 3. `echo` displays text in the terminal.
-4. Type `echo "I completed my first BOOST exercise!"` and press Return. 
+4. Type `echo "I completed my first BOOST exercise."` and press Return. 
 
 </details>
