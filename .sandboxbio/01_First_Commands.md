@@ -70,7 +70,7 @@ Before continuing, make sure you can answer these questions:
 1. Which command displays your username?
 2. Which command displays your current working directory?
 3. What does the `echo` command do?
-4. You want the terminal to display the message `I completed my first BOOST exercise.`. What command would you enter?
+4. You want the terminal to display the message `I completed my first BOOST exercise.` What command would you enter?
 
 You have now completed your first interactive BMS-BOOST Terminal exercise!
 
