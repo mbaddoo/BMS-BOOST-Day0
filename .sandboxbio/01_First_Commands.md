@@ -17,7 +17,7 @@ In the terminal below, type `whoami` and press Return.
 sandbox
 ```
 
-What does this mean?
+**What does this mean?**
 
 The terminal displays `sandbox` because you are working in sandbox.bio's simulated computing environment. If you run the same command in Terminal on a Mac, you will see the Mac's username instead. 
 
