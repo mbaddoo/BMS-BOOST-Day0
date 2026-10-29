@@ -9,11 +9,7 @@ In this exercise, you will practice three commands introduced in the Day 0 workb
 
 The `whoami` command displays your current username.
 
-In the terminal below, enter:
-
-```bash
-whoami
-```
+In the terminal below, type `whoami` and press Return.
 
 **Expected output:**
 
