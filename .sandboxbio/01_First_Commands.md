@@ -53,6 +53,16 @@ In the terminal below, type `echo "Welcome to BOOST."` and press Return.
 Welcome to BOOST.
 ```
 
+**What does this mean?**
+
+The `echo` command displays the text you provide. In this example, the terminal prints `Welcome to BOOST.` exactly as written inside the quotation marks. 
+
+Try it yourself: Run the command again, but replace `Welcome to BOOST.' with a short message of your own. Keep the quotation marks around your message. 
+
+For example, type `echo "Roll Wave!"` and press Return. 
+
+Notice that the terminal displays your new message. 
+
 ## Check Your Understanding
 
 Before continuing, make sure you can answer these questions:
