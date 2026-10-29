@@ -25,9 +25,7 @@ The `pwd` command stands for *print working directory*. It displays your current
 
 In the terminal below, type `pwd` and press Return.
 
-Examine the directory path displayed.
-
-Your output should resemble:
+**Expected output:**
 
 ```text
 /home/sandbox/github/mbaddoo/BMS-BOOST-Day0
