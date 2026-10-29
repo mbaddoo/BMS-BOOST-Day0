@@ -7,7 +7,7 @@ In this exercise, you will practice three commands introduced in the Day 0 workb
 
 ## Exercise 1 — Who am I?
 
-The `whoami` command displays your current username.
+The `whoami` command displays the username associated with your current terminal session.
 
 In the terminal below, type `whoami` and press Return.
 
@@ -17,7 +17,11 @@ In the terminal below, type `whoami` and press Return.
 sandbox
 ```
 
-Notice that the username in this environment is `sandbox`. Your username on your own Mac will likely be different.
+What does this mean? 
+
+The terminal displays `sandbox` because you are working in sandbox.bio's simulated computing environment. If you run the same command in Terminal on a Mac, you will see the Mac's username instead. 
+
+Try it yourself: Compare the username displayed by `whoami` with the username shown in the Terminal prompt on a Mac. 
 
 ## Exercise 2 — Where am I?
 
