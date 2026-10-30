@@ -233,7 +233,7 @@ Notice how the commands and their output appear in the terminal.
 
 **What happened?**
 
-The previous commands and their output should disappear from the visible terminal display.
+The previous commands and their output should no longer be visible in the terminal window. 
 
 A new command prompt should appear, ready for your next command.
 
