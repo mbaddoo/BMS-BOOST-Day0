@@ -111,3 +111,37 @@ You entered a long command in the terminal and want to run it again without rety
 
 </details>
 
+
+## Exercise 3 — Using Tab Completion
+
+The **Tab** key can help you finish typing commands and file or directory names.
+
+Instead of typing an entire command, you can enter the first few letters and press Tab.
+
+**Step 1:** In the terminal below, type `whoa` but do not press Return.
+
+**Step 2:** Press the **Tab** key once.
+
+**What happened?**
+
+If the shell recognizes a unique matching command, it should complete `whoa` to `whoami`.
+
+**Step 3:** Press Return to execute the completed command.
+
+**Expected output:**
+
+```text
+sandbox
+```
+
+**What does this mean?**
+
+The shell recognized the beginning of a command and completed the remaining characters for you.
+
+**Try it yourself:** Type `pw`, press Tab, and observe whether the shell completes the command to `pwd`.
+
+If the shell finds multiple possible matches, it may not complete the command automatically.
+
+**Key takeaway:** Tab completion can save time and reduce typing mistakes.
+
+
