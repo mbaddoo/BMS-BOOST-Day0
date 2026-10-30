@@ -84,6 +84,7 @@ The command `whoami` should now appear.
 You should see `pwd` again.
 
 **Step 6:** Press Return to execute the recalled command.
+Notice that the terminal displays the current working directory again, just as it did when you first entered `pwd`.
 
 **What does this mean?**
 
