@@ -54,3 +54,42 @@ Enter `whoami` using all lowercase letters.
 
 </details>
 
+
+## Exercise 2 — Using Command History
+
+The terminal remembers commands you have entered during your session.
+
+You can use the **Up (↑)** and **Down (↓)** arrow keys to navigate through previously entered commands.
+
+This is useful when you want to repeat a command without typing it again.
+
+**Step 1:** In the terminal below, type `whoami` and press Return.
+
+**Step 2:** Type `pwd` and press Return.
+
+**Step 3:** Press the **Up (↑)** arrow key once.
+
+**What happened?**
+
+The command `pwd` should reappear at the terminal prompt.
+
+Notice that the command has not executed yet.
+
+**Step 4:** Press the **Up (↑)** arrow key again.
+
+The command `whoami` should now appear.
+
+**Step 5:** Press the **Down (↓)** arrow key once.
+
+You should see `pwd` again.
+
+**Step 6:** Press Return to execute the recalled command.
+
+**What does this mean?**
+
+The arrow keys allow you to navigate through commands you previously entered. A recalled command can be executed by pressing Return.
+
+**Try it yourself:** Use the Up arrow key to recall `whoami`, then press Return to execute it.
+
+**Key takeaway:** Command history saves time and reduces typing errors when repeating commands.
+
