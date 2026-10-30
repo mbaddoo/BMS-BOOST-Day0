@@ -93,3 +93,21 @@ The arrow keys allow you to navigate through commands you previously entered. A 
 
 **Key takeaway:** Command history saves time and reduces typing errors when repeating commands.
 
+
+### Check Your Understanding
+
+You entered a long command in the terminal and want to run it again without retyping it.
+
+1. Which key would you press to retrieve the previous command?
+2. Does pressing that key automatically execute the command?
+3. What must you press to execute the recalled command?
+
+<details>
+<summary>Reveal answers</summary>
+
+1. Press the **Up (↑)** arrow key.
+2. No. The command reappears at the prompt but does not execute automatically.
+3. Press **Return** to execute the recalled command.
+
+</details>
+
