@@ -129,17 +129,18 @@ If the shell recognizes a unique matching command, it should complete `whoa` to 
 
 **Step 3:** Press Return to execute the completed command.
 
-**Expected output:**
+**Expected output (sandbox.bio):**
 
 ```text
 sandbox
 ```
+On a Mac, `whoami` displays that Mac's username instead. 
 
 **What does this mean?**
 
 The shell recognized the beginning of a command and completed the remaining characters for you.
 
-**Try it yourself:** Type `pw`, press Tab, and observe whether the shell completes the command to `pwd`.
+**Try it yourself:** Type `pw`, press Tab. Does the shell completes the command to `pwd`? If not, type `d` and pres Tab again. 
 
 If the shell finds multiple possible matches, it may not complete the command automatically.
 
