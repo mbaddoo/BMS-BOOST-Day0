@@ -32,3 +32,24 @@ The shell treats `whoami` and `WhoAmI` as different command names. Although they
 **Try it yourself:** Type `whoami` again, using all lowercase letters. Confirm that the command works.
 
 **Key takeaway:** Pay attention to capitalization when entering terminal commands.
+
+
+### Check Your Understanding
+
+You enter `WhoAmI` in the terminal and receive a
+`command not found` error.
+
+What is the most likely reason, and how would you
+correct it?
+
+<details>
+<summary>Reveal answer</summary>
+
+The command was entered with incorrect capitalization.
+
+The shell treats `WhoAmI` and `whoami` as different
+command names.
+
+Enter `whoami` using all lowercase letters.
+
+</details>
