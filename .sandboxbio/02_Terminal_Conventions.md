@@ -179,7 +179,7 @@ The `sleep` command pauses for a specified number of seconds without displaying 
 
 The terminal appears to be doing nothing. This is expected! The `sleep` command is waiting for 30 seconds.
 
-Notice that the command prompt has not returned.
+Notice that the command prompt has not returned. This tells you that the shell is still waiting for the command to finish. 
 
 **Step 2:** Before the 30 seconds have elapsed, press **Control+C**.
 
