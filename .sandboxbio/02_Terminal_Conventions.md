@@ -211,5 +211,56 @@ Pressing Control+C sends an interrupt signal to the running command. Many comman
 </details>
 
 
+## Exercise 5 — Clearing the Terminal Display
+
+As you work in the terminal, commands and their output accumulate on the screen.
+
+Sometimes it is helpful to clear the display so you can focus on your next task.
+
+The `clear` command clears the visible terminal display without deleting files or erasing your command history.
+
+**Step 1:** In the terminal below, type `whoami` and press Return.
+
+**Step 2:** Type `pwd` and press Return.
+
+**Step 3:** Type `echo "Welcome to BOOST."` and press Return.
+
+Notice how the commands and their output appear in the terminal.
+
+**Step 4:** Type `clear` and press Return.
+
+**What happened?**
+
+The previous commands and their output should disappear from the visible terminal display.
+
+A new command prompt should appear, ready for your next command.
+
+**What does this mean?**
+
+The `clear` command clears the terminal display. It does not delete files, remove directories, or erase your command history.
+
+**Try it yourself:** Press the Up arrow key to recall a previously entered command.
+
+Notice that your command history is still available even though you cleared the display.
+
+**Key takeaway:** Use `clear` when you want a clean terminal display without affecting your files or command history.
+
+### Check Your Understanding
+
+1. What does the `clear` command do?
+2. Does `clear` delete files or directories?
+3. After running `clear`, can you still recall previous commands using the Up arrow key?
+
+<details>
+<summary>Reveal answers</summary>
+
+1. It clears the visible terminal display.
+2. No. It does not delete files or directories.
+3. Yes. Command history remains available after clearing the display.
+
+</details>
+
+
+
 
 
