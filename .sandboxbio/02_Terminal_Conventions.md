@@ -145,3 +145,20 @@ If the shell finds multiple possible matches, it may not complete the command au
 **Key takeaway:** Tab completion can save time and reduce typing mistakes.
 
 
+### Check Your Understanding
+
+1. What is the purpose of the Tab key in the terminal?
+2. You type `whoa` and press Tab. The shell completes the command to `whoami`. Has the command executed?
+3. What should you do if pressing Tab does not complete your command?
+
+<details>
+<summary>Reveal answers</summary>
+
+1. Tab completion helps finish command, file, or directory names, reducing typing and spelling mistakes.
+2. No. The command has been completed but has not executed. Press Return to execute it.
+3. Check your spelling or type additional characters. The shell may have multiple possible matches or may not recognize what you entered.
+
+</details>
+
+
+
