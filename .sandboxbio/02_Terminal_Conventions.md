@@ -161,4 +161,55 @@ If the shell finds multiple possible matches, it may not complete the command au
 </details>
 
 
+## Exercise 4 — Stopping a Running Command
+
+Sometimes a command takes longer than expected to finish. Other commands may continue running until you stop them.
+
+You can usually interrupt a running command by pressing **Control+C**.
+
+Let's practice using a command called `sleep`.
+
+The `sleep` command pauses for a specified number of seconds without displaying any output.
+
+**Step 1:** In the terminal below, type `sleep 30` and press Return.
+
+**What happened?**
+
+The terminal appears to be doing nothing. This is expected! The `sleep` command is waiting for 30 seconds.
+
+Notice that the command prompt has not returned.
+
+**Step 2:** Before the 30 seconds have elapsed, press **Control+C**.
+
+**What happened?**
+
+The running command should stop, and the terminal prompt should reappear.
+
+You may also see `^C` displayed in the terminal.
+
+**What does this mean?**
+
+Pressing Control+C sends an interrupt signal to the running command. Many commands respond by stopping and returning control to the shell.
+
+**Try it yourself:** Run `sleep 20` and interrupt it using Control+C before it finishes.
+
+**Key takeaway:** Control+C is a useful way to interrupt a running command. On a Mac, use the Control key, not the Command key.
+
+### Check Your Understanding
+
+1. What does the `sleep 30` command do?
+2. Why does the terminal prompt temporarily disappear while `sleep` is running?
+3. Which keyboard shortcut can you use to interrupt a running command?
+
+<details>
+<summary>Reveal answers</summary>
+
+1. It pauses for 30 seconds without displaying output.
+2. The shell is waiting for the running command to finish or be interrupted.
+3. Press **Control+C** to send an interrupt signal. Many commands respond by stopping.
+
+</details>
+
+
+
 
