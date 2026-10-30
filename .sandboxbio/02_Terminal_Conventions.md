@@ -7,7 +7,7 @@ In this lesson, you will practice several conventions that make working in the t
 
 ## Exercise 1 — Capitalization Matters
 
-Terminal commands are generally case-sensitive. This means that uppercase and lowercase letters are treated differently.
+Command names in the terminal are generally case-sensitive. This means that uppercase and lowercase letters are treated differently. 
 
 You previously learned that `whoami` displays your current username.
 
